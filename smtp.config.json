@@ -1,0 +1,8 @@
+{
+    "check_interval_in_seconds": 60,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "password": "",
+    "from_address": "",
+    "to_address": ""
+}
